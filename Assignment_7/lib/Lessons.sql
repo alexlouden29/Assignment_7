@@ -1,0 +1,10 @@
+CREATE TABLE Lessons (Lesson_Num INTEGER, Title VARCHAR(30));
+INSERT INTO Lessons (Lesson_Num, Title) VALUES (1, 'Stream Input/Output');
+INSERT INTO Lessons (Lesson_Num, Title) VALUES (2, 'Regular Expressions');
+INSERT INTO Lessons (Lesson_Num, Title) VALUES (3, 'Streams');
+INSERT INTO Lessons (Lesson_Num, Title) VALUES (4, 'XML');
+INSERT INTO Lessons (Lesson_Num, Title) VALUES (5, 'Concurrent Programming');
+INSERT INTO Lessons (Lesson_Num, Title) VALUES (6, 'Networking');
+INSERT INTO Lessons (Lesson_Num, Title) VALUES (7, 'Database');
+INSERT INTO Lessons (Lesson_Num, Title) VALUES (8, 'Modules');
+INSERT INTO Lessons (Lesson_Num, Title) VALUES (9, 'Scripting and Compiling');

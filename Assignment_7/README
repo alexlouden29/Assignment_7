@@ -1,0 +1,9 @@
+To use program:
+
+1) Open console window
+2) Navigate to project folder, into "derby" folder
+3) Execute the following command: java -jar lib/derbyrun.java server start
+4) Open a second console window, and switch to this window
+5) navigate to the project folder
+6) Execute the following command: java -jar derby/lib/derbyrun.jar ij -p lib/ij.properties
+9) Execute Lesson7Database.java
